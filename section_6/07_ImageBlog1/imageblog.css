@@ -1,0 +1,21 @@
+img {
+	/*width: 100px;*/
+	width: 30%;
+	margin: 1.66%;
+	/* 3 columns of photos with outside whitespace on left & right + double whitespace between columns. */
+	/* ie: |w xxxx ww xxxx ww xxxx w|  6w's. */
+	float: left;
+}
+
+p {
+	font-family: Raleway;
+	/* margin-left: 1.66%; */
+	margin: auto;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding: bottom;
+}
+
